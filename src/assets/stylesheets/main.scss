@@ -1,0 +1,33 @@
+$primary: #234965;
+$secondary: black;
+$tertiary: white;
+
+$complete: black;
+$incomplete: #eeeeee;
+
+html, body {
+  min-height: 100%;
+  display: flex;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  width: 100%;
+  margin: 0;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.primary-background { background-color: $primary; }
+.primary { color: $tertiary; }
+
+.secondary-background { background-color: $secondary; }
+.secondary { color: $tertiary; }
+
+.complete { background-color: $complete; }
+.incomplete { background-color: $incomplete; }

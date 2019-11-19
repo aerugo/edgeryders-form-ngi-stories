@@ -1,0 +1,89 @@
+{
+  "brand": {
+    "title": "Get involved with Burning Stories",
+    "logoSrc": "/favicon.ico",
+    "imageSrc": "/logo.png",
+    "beginText": "BEGIN",
+    "beginTitle": "Let's get started!"
+  },
+  "slideDefaults": {
+    "title": "Q{{index}}",
+    "backText": "BACK",
+    "nextText": "NEXT",
+    "backTitle": "Go back",
+    "nextTitle": "Continue",
+    "cancelTitle": "Clear all answers and start again",
+    "fields": [{
+      "name": "message",
+      "type": "textarea",
+      "placeholder": "write here...",
+      "required": false,
+      "autofocus": true,
+      "error": "Please write a response!"
+    }],
+    "diagram": {},
+    "settings": { "omitFields": true }
+  },
+  "slides": [{
+    "title": "Hello, and welcome to Burning Stories!",
+    "subtitle": "Welcome to the Burning Stories research unit - an experiment in understanding creative and participatory leadership",
+    "body": "The aim of Burning Stories is to study the global Burning Man community. We seek to explain the processes through which community membership evolves across time and space, and how this, in turn, affects their experience of the collective identity. There is a very limited understanding of how its immersive experiences transform individuals, let alone society. That is precisely what we aim to find out with this project.",
+    "fields": []
+  }, {
+    "title": "Ready?",
+    "body": "What was it that brought you here? What do you really care about right now? You are somehow connected to the global 'burner' culture, either as a researcher of it, a leader in it or a co-creator of it. What are the experiences that keep pulling you back into it?",
+    "fields": []
+  }, {
+    "index": 1,
+    "body": "Think back on the last 12 months. Did you go to any 'burns'? What were the themes for you?"
+  }, {
+    "index": 2,
+    "body": "What are you curious to learn from studying Burning Man and other burn events and their cultures?"
+  }, {
+    "index": 3,
+    "body": "Imagine Burning Man in ten years. What does it look like?"
+  }, {
+    "index": 4,
+    "title": "The last little bit!",
+    "nextTitle": "Submit your response!",
+    "body": "These questions will be used to register an account for you on our forum. where you can go back and update your answers.",
+    "fields": [{
+      "name": "name",
+      "type": "text",
+      "placeholder": "Name/nickname",
+      "half": true,
+      "required": true,
+      "autofocus": true,
+      "error": "Please enter your name"
+    }, {
+      "name": "email",
+      "type": "email",
+      "placeholder": "E-mail",
+      "required": true,
+      "error": "Please enter your email address",
+      "settings": { "omit": true }
+    }, {
+      "name": "consent",
+      "type": "checkbox",
+      "placeholder": "I understand that this form is used for research and that submitting it will create an account for me on the Burning Stories forum.",
+      "required": true,
+      "error": "Please consent to the terms and conditions",
+      "settings": { "omit": true }
+    }],
+    "nextText": "SEND",
+    "submit": true,
+    "settings": { "omitBody": true }
+  }, {
+    "title": "Well done!",
+    "body": "Thank you for taking the time to join Burning Stories!",
+    "fields": [],
+    "backText": null,
+    "nextText": null
+  }],
+  "messages": {
+    "networkError": "Sorry, we were unable to store your response due to a network connectivity issue. Please try clicking on \"Send\" again.",
+    "username": "It seems somebody has already chosen your preferred username / nickname. Please enter a different one and click again on \"Send\".",
+    "email": "It seems you already have an account on our forum using this e-mail address, or have entered an invalid address. Please choose a different e-mail address and click again on \"Send\".",
+    "default": "Sorry, we were unable to store your response due to an unknown error. Please try clicking on \"Send\" again."
+  }
+}
