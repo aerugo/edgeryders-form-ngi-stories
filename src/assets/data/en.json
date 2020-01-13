@@ -25,28 +25,25 @@
     "settings": { "omitFields": true }
   },
   "slides": [{
-    "title": "Hello, and welcome to Burning Stories!",
-    "subtitle": "Welcome to the Burning Stories research unit - an experiment in understanding creative and participatory leadership",
-    "body": "The aim of Burning Stories is to study the global Burning Man community. We seek to explain the processes through which community membership evolves across time and space, and how this, in turn, affects their experience of the collective identity. There is a very limited understanding of how its immersive experiences transform individuals, let alone society. That is precisely what we aim to find out with this project.",
+    "title": "Welcome to the Burning Stories Forum registration",
+    "subtitle": "Welcome to the Burning Stories Forum - an experiment in understanding participatory cultures.<br><br>The following signup will assist us co-creating content based on the collective intelligence of participants to the conference in Aalto University on 31st of March 2020.",
+    "body": "In the forum, you can freely engage with any topics you wish and seek the knowledge you find most meaningful. The practical information about the conference at Aalto University will be shared at the forum.",
     "fields": []
   }, {
     "title": "Ready?",
-    "body": "What was it that brought you here? What do you really care about right now? You are somehow connected to the global 'burner' culture, either as a researcher of it, a leader in it or a co-creator of it. What are the experiences that keep pulling you back into it?",
+    "body": "What was it that brought you here? What do you really care about right now? You are somehow connected to the global ‘burner’ culture, either as a researcher of it, a leader in it or a co-creator of it or simply interested on it? What are the experiences or interests that pull you towards it?",
     "fields": []
   }, {
     "index": 1,
-    "body": "Think back on the last 12 months. Did you go to any 'burns'? What were the themes for you?"
+    "body": "Think back on the last 12 months. Did you go to any ‘burns’? If so, what turned out to be central themes for you this time? If not, you can skip this question."
   }, {
     "index": 2,
-    "body": "What are you curious to learn from studying Burning Man and other burn events and their cultures?"
+    "body": "What are you curious to learn from studying Burning Man and regional burn events and communities?"
   }, {
     "index": 3,
-    "body": "Imagine Burning Man in ten years. What does it look like?"
-  }, {
-    "index": 4,
     "title": "The last little bit!",
     "nextTitle": "Submit your response!",
-    "body": "These questions will be used to register an account for you on our forum. where you can go back and update your answers.",
+    "body": "<strong>The answers to these question questions will be used to register an account for you to the forum and to introduce you to other participants. Once logged in- you can go back and update your answers.<br><br>Practical information and inspiring content to be discussed will be shared regularly to the forum and also e-mailed to you now and then you as a summary of topics.</strong>",
     "fields": [{
       "name": "name",
       "type": "text",
